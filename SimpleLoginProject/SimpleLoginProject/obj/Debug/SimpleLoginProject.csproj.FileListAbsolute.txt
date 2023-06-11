@@ -1,0 +1,14 @@
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.csprojAssemblyReference.cache
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.csproj.CoreCompileInputs.cache
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.exe.config
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.exe
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.pdb
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.exe
+E:\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.pdb
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.exe.config
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.exe
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\bin\Debug\SimpleLoginProject.pdb
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.csprojAssemblyReference.cache
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.csproj.CoreCompileInputs.cache
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.exe
+E:\TAFE\2022\Sem 1 2022\OOP\Project\SimpleLoginProject\SimpleLoginProject\obj\Debug\SimpleLoginProject.pdb
